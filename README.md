@@ -1,4 +1,5 @@
 # flashcard
+This is a online studying application for CBD(my English class at university)
 
 ## Project setup
 ```
